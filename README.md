@@ -1,4 +1,5 @@
-# Db_T_2
+# SQLite Da
+![Google Phone](https://img.shields.io/badge/Android-Lollipop+-blue.svg?logo=google&longCache=true&style=flat-square)
 - This App uses the SQlite Database in Android.
 # Description
 - The main activity consists of:
@@ -14,3 +15,5 @@
 - Data is deleted from Database using **Delete** Button.
 - To update data in Database, updated data is entered through edittexts and updated on the basis of ID usimg **update** Button.
 
+## Screenshot
+![Preview](https://github.com/arshanwar/SQLite-Database-Example-Android-App/blob/master/Preview.jpg)

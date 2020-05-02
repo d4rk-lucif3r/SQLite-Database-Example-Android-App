@@ -1,4 +1,4 @@
-# SQLite Da
+# SQLite Database Example Android App
 ![Google Phone](https://img.shields.io/badge/Android-Lollipop+-blue.svg?logo=google&longCache=true&style=flat-square)
 - This App uses the SQlite Database in Android.
 # Description
